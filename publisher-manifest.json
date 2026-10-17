@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "592d7acf91832e2aa76191dd",
+  "owner": "tqmdrxh",
+  "repo": "page-749aee086daa322caa282f51",
+  "title": "两元机场(ADSL)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "749aee086daa322caa282f51",
+      "a": "两元机场(ADSL)",
+      "b": "",
+      "entity": "两元机场(ADSL)",
+      "brand": "两元机场(ADSL)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b79418dcaf4c66a2d67fb6b36d2796795d5822565f0dcb1feafeb4a1a207441b",
+      "content": {
+        "keyword1": "两元机场(ADSL)",
+        "keyword2": "",
+        "primary_entity": "两元机场(ADSL)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "两元机场提供低至15元每月的高速ADSL服务。",
+          "AI_DESCRIPTION": "两元机场提供低至15元每月的高速ADSL服务。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\nbody{margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background:#001F3F;color:#FFBF00}\n.hero{display:flex;height:100vh;align-items:center;position:relative;background:#001F3F}\n.hero-left{width:28%;padding:80px 50px}\n.hero-left h1{font-size:3.8rem;margin:0 0 15px;line-height:1}\n.hero-left p{font-size:1.6rem;margin:0 0 30px}\n.cta{background:#FFBF00;color:#001F3F;padding:14px 38px;border-radius:50px;text-decoration:none;font-weight:700;display:inline-block;font-size:1.15rem}\n.nav-tags{position:absolute;bottom:60px;left:50px;font-size:0.95rem;opacity:0.8}\n.nav-tags a{color:#FFBF00;margin:0 18px;text-decoration:none}\n.hero-right{width:72%;padding:100px 40px;background:rgba(255,191,0,0.06);display:flex;align-items:center;justify-content:center}\n.hero-right .placeholder{text-align:center;font-size:1.1rem;opacity:0.4;line-height:1.4}\nsection{padding:70px 5%;max-width:1200px;margin:0 auto}\nh2{font-size:2.4rem;text-align:center;margin-bottom:50px}\n.plans{display:flex;gap:25px;flex-wrap:wrap}\n.card{background:#001F3F;border-radius:22px;padding:35px;box-shadow:0 12px 35px rgba(0,0,0,0.35);flex:1;min-width:280px}\n.card.featured{border:3px solid #FFBF00;box-shadow:0 15px 40px rgba(255,191,0,0.2)}\n.card h3{font-size:1.75rem;margin:0 0 12px}\n.card .price{font-size:2rem;margin:15px 0 8px}\n.card .annual{font-size:1.05rem;color:#FFBF00;margin-bottom:25px}\n.card ul{list-style:none;padding:0;margin:0}\n.card li{margin:14px 0;padding-left:22px;position:relative}\n.card li:before{content:\"•\";color:#FFBF00;position:absolute;left:0}\n.cta-card{display:block;background:#FFBF00;color:#001F3F;padding:16px;text-align:center;border-radius:50px;text-decoration:none;margin-top:30px;font-weight:700}\n.faq h3{font-size:1.45rem;margin-bottom:18px;border-bottom:2px solid #FFBF00;padding-bottom:10px}\n.faq-group{margin-bottom:45px}\n.faq-group p{font-weight:600;margin:16px 0 6px}\n.faq-group p:last-child{margin-bottom:0}\n</style><section id=\"hero\" class=\"hero\">\n  <div class=\"hero-left\">\n    <h1>两元机场(ADSL) · 两元机场</h1>\n    <p>ADSL 高速通道</p>\n    <a href=\"#plans\" class=\"cta\">立即选择</a>\n  </div>\n  <div class=\"hero-right\">\n    <div class=\"placeholder\">\n      两元机场<br>\n      ADSL\n    </div>\n  </div>\n  <div class=\"nav-tags\">\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#faq\">FAQ</a>\n  </div>\n</section>\n\n<main>\n  <section id=\"plans\">\n    <h2>选择适合您的套餐</h2>\n    <div class=\"plans\">\n      <div class=\"card\">\n        <h3>基础版</h3>\n        <p class=\"price\">¥15/月</p>\n        <p class=\"annual\">按年付仅需 ¥150/年</p>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#plans\" class=\"cta-card\">立即订阅</a>\n      </div>\n      <div class=\"card featured\">\n        <div>推荐</div>\n        <h3>旗舰版</h3>\n        <p class=\"price\">¥35/月</p>\n        <p class=\"annual\">按年付仅需 ¥350/年</p>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <a href=\"#plans\" class=\"cta-card\">立即订阅</a>\n      </div>\n      <div class=\"card\">\n        <h3>团队版</h3>\n        <p class=\"price\">¥85/月</p>\n        <p class=\"annual\">按年付仅需 ¥850/年</p>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#plans\" class=\"cta-card\">立即订阅</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq-group\">\n      <h3>流量与速度</h3>\n      <p>每月流量用完怎么办？</p>\n      <p>自动限速。</p>\n      <p>如何提升速度？</p>\n      <p>选择旗舰版或团队版。</p>\n    </div>\n    <div class=\"faq-group\">\n      <h3>支付与订阅</h3>\n      <p>支持哪些支付方式？</p>\n      <p>主流支付方式。</p>\n      <p>年付优惠如何？</p>\n      <p>按年付仅需对应年付价格。</p>\n    </div>\n    <div class=\"faq-group\">\n      <h3>设备与支持</h3>\n      <p>支持几台设备同时在线？</p>\n      <p>基础版 3 台，旗舰版 5 台，团队版 20 台。</p>\n    </div>\n  </section>\n</main>",
+          "hash": "eba273ba1034c53e7d37920a436669ef1a554f3ab5ca08647264f803fe4c4e94",
+          "seo": {
+            "title": "两元机场(ADSL) - 高速稳定VPN服务",
+            "keywords": "两元机场, ADSL, VPN, 机场",
+            "description": "两元机场提供低至15元每月的高速ADSL服务。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "8102",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "9vcp2b.cn",
+    "host": "p-d30314ea27.9vcp2b.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f5ad215f9c98c250cb8f0f46600d73d87e8fa698893f5ee49b32108f19964555",
+    "sitemap.xml": "323ee14ae15b024a6ff4abfc9e6b869443ac491796db3ea05a181253eabe184a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "32465cedd39591d2e511f1749bd29ebd483594b6560b79bf3235bddaba3a7757",
+    "robots.txt": "aa1b21d926632b0cf227fb1df72fedd428d9e3d077193aa2108e661583750356",
+    "b6be742ffcc25c637caa34ea2182e9c3.txt": "213ef975364430008d0ca4a731c7a053f758463ce30eb7bf8c413503cff00bed"
+  },
+  "revision": "840d69f69ecfb8c8b20717cb977207641a128b2d8426ae3dd817faa64bec35b2"
+}

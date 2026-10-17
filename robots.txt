@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-d30314ea27.9vcp2b.cn/sitemap.xml
